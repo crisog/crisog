@@ -4,8 +4,5 @@ I'm a software developer passionate about Blockchain and Ethereum Ecosystem. :oc
 
 Contributing at: <br>
 1Hive :bee: 
-<br><br>
-Building stuff around: <br>
-Aragon :eagle:
 
 
