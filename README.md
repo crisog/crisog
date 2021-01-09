@@ -17,13 +17,13 @@ I mostly work on backend development, and I'm actively contributing to open sour
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/hardhat.png"  height="90" />
   </a>
   <a href="http://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/python.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/python.png"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/docker.gif"  height="90" /> 
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/docker.png"  height="90" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/k8s.png"  height="75" />
   </a>
  </p>
   
@@ -31,7 +31,7 @@ I mostly work on backend development, and I'm actively contributing to open sour
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/aws.png"  height="75" />
   </a>
  </p>
   
@@ -39,10 +39,10 @@ I mostly work on backend development, and I'm actively contributing to open sour
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/grafana.png" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/prometheus.png" height="65" />
   </a>
 </p>
 
@@ -50,10 +50,10 @@ I mostly work on backend development, and I'm actively contributing to open sour
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/postgresql.png" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/mongo.png" height="80" />
   </a>
 </p>
 
