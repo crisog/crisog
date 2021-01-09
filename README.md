@@ -1,4 +1,4 @@
-### 3e92a13b68d1868e828788f049395ed44b701955777c5f51f0b3559bb05dbaf8 👋
+### Welcome 👋
 
 <!--
 **crisog/crisog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
