@@ -30,8 +30,8 @@ I mostly work on backend development, and I'm actively contributing to open sour
 ### Cloud Service Providers
   
  <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/aws.png"  height="75" />
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/gcp.png"  height="75" />
   </a>
  </p>
   
@@ -39,8 +39,8 @@ I mostly work on backend development, and I'm actively contributing to open sour
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/grafana.png" height="60" />&nbsp;&nbsp;
-  </a>
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/grafana.png" height="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/prometheus.png" height="65" />
   </a>
@@ -50,8 +50,8 @@ I mostly work on backend development, and I'm actively contributing to open sour
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/postgresql.png" height="90" />&nbsp;&nbsp;
-  </a>
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/postgresql.png" height="90" >
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/mongo.png" height="80" />
   </a>
