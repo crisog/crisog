@@ -23,7 +23,7 @@ I mostly work on backend development, and I'm actively contributing to open sour
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/docker.png"  height="90" /> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/k8s.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/k8s.png"  height="90" />
   </a>
  </p>
   
