@@ -10,7 +10,7 @@ I'm a software developer passionate about Blockchain and Ethereum Ecosystem. ⛓
 
 I mostly work on backend development, and I'm actively contributing to open source projects which most of them are also related to Ethereum (@1Hive 🐝 & @Sourcecred 🌾).
 
-## Skills
+## Stack
 
 <p float="left">
   <a href="http://hardhat.org/" target="_blank" >
