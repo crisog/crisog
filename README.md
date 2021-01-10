@@ -53,7 +53,7 @@ I mostly work on backend development, and I'm actively contributing to open sour
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/postgresql.png" height="90" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/mongo.png" height="105" />
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/mongo.png" height="90" />
   </a>
 </p>
 
