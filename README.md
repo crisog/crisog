@@ -15,13 +15,13 @@ I mostly work on backend development, and I'm actively contributing to open sour
 <p float="left">
   <a href="http://hardhat.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/hardhat.png"  height="90" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/python.png"  height="90" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/docker.png"  height="90" /> 
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/k8s.png"  height="75" />
   </a>
