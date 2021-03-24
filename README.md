@@ -16,6 +16,9 @@ I mostly work on backend development, and I'm actively contributing to open sour
   <a href="http://hardhat.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/hardhat.png"  height="75" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/javascript.png"  height="75" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/python.png"  height="75" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
