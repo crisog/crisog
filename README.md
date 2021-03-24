@@ -8,7 +8,7 @@ I'm a software developer passionate about Blockchain and Ethereum Ecosystem. ⛓
 
 ![crisog's github stats](https://github-readme-stats.vercel.app/api?username=crisog&hide=issues&show_icons=true&theme=onedark)
 
-I mostly work on backend development, and I'm actively contributing to open source projects which most of them are also related to Ethereum (@1Hive 🐝 & @Sourcecred 🌾).
+I mostly work on backend development, and I'm actively contributing to awesome open source projects (@1Hive 🐝 & @Sourcecred 🌾).
 
 ## Stack
 
