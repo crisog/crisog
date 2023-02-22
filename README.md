@@ -35,7 +35,7 @@ I'm currently working full-time as a Software Engineer (Backend) in Pocket Netwo
  <p float="left">
   <a href="https://aws.amazon.com" target="_blank" >
     <img src="https://img.icons8.com/color/512/amazon-web-services.png"  height="100" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/gcp.png"  height="100" />
   </a>
@@ -49,6 +49,9 @@ I'm currently working full-time as a Software Engineer (Backend) in Pocket Netwo
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/prometheus.png" height="90" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.datadoghq.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/800px-Datadog_logo.svg.png" height="90" />
   </a>
 </p>
 
