@@ -13,14 +13,14 @@ I'm currently working full-time as a Software Engineer (Backend) in Pocket Netwo
 ## Stack
 
 <p float="left">
-  <a href="http://hardhat.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/hardhat.png"  height="75" />
+  <a href="https://go.dev/" target="_blank" >
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"  height="75" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/javascript.png"  height="75" />
+  <a href="https://redis.io/" target="_blank" >
+    <img src="https://img.icons8.com/color/512/redis.png"  height="80" /> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/python.png"  height="75" />
+  <a href="https://www.typescriptlang.org/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  height="75" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/docker.png"  height="80" /> 
@@ -33,6 +33,9 @@ I'm currently working full-time as a Software Engineer (Backend) in Pocket Netwo
 ### Cloud Service Providers
   
  <p float="left">
+  <a href="https://aws.amazon.com" target="_blank" >
+    <img src="https://img.icons8.com/color/512/amazon-web-services.png"  height="100" />
+  </a>
   <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/crisog/crisog/master/assets/gcp.png"  height="100" />
   </a>
