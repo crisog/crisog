@@ -8,7 +8,7 @@ I'm a software developer passionate about Blockchain and Ethereum Ecosystem. ⛓
 
 ![crisog's github stats](https://github-readme-stats.vercel.app/api?username=crisog&hide=issues&show_icons=true&theme=onedark)
 
-I'm currently working full-time as a Software Engineer (Backend) in Pocket Network.
+I'm currently working full-time as a Software Engineer (Backend) at a Stealth Startup.
 
 ## Stack
 
