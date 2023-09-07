@@ -71,7 +71,7 @@ I'm currently working full-time as a Software Engineer (Backend) at a Stealth St
   <a href="https://www.linkedin.com/in/crisog/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/0xOrtega" target="_blank" >
+  <a href="https://x.com/crisogx" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ortega.cpp@gmail.com" target="_blank" >
